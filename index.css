@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Halant', serif;
+    font-family: 'Manrope', sans-serif;
+}
+p{
+    font-family: 'Manrope', sans-serif;;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav .img{
+    width: 70%;
+    margin-left: 10%;
+    margin-top: 8%;
+    padding-left: 15%;
+}
+.anchor{
+    display: flex;
+    
+     gap: 80%; 
+     margin-top: 3%;
+     margin-left: 40%;
+    
+}
+.anchor a{
+    text-decoration: none;
+}
+.btn{
+    margin-right: 10%;
+    margin-top: 2%;
+    padding: 1%;
+    
+}
+
+
+
+.section1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10%;
+}
+.article1{
+    padding-left: 4%;
+    padding-top: 8%;
+}
+.img1{
+    padding-right: 5%;
+}
+
+.h1{
+    color: blue;
+}
+
+.btn1{
+    background-color: blue;
+    color: white;
+    padding: 2%;
+    border: none;
+    margin-top: 3%;
+}
+
+.section2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10%;
+}
+
+.section2 img{
+    margin-left: 10%;
+}
+
+.article2{
+    padding-right: 4%;
+    padding-top: 3%;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10%;
+}
+
+.img2{
+    width: 70%;
+    margin-left: 10%;
+    padding-left: 15%;
+}
+
+.small{
+    margin-right: 10%;
+}
