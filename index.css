@@ -17,7 +17,7 @@ p{
 .nav .img{
     width: 70%;
     margin-left: 10%;
-    margin-top: 8%;
+    margin-top: 17%;
     padding-left: 15%;
 }
 .anchor{
@@ -49,6 +49,8 @@ p{
     font-size: 16px;
     font-weight: 700;
     line-height: 24px;
+    border: 1px solid #155EEF;
+    border-radius: 6px;
 
 
     
@@ -97,7 +99,7 @@ p{
 }
 
 .btn1{
-    background-color: blue;
+    background-color: #155EEF;
     color: #FFFFFF;
     padding: 2%;
     border: none;
@@ -160,5 +162,13 @@ footer{
 }
 
 .small{
-    margin-right: 10%;
+    margin-right: 13%;
+    font-family: Manrope;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+
+}
+.img3{
+    /* padding: 2%; */
 }
