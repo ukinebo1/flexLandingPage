@@ -4,6 +4,18 @@
     box-sizing: border-box;
     font-family: 'Halant', serif;
     font-family: 'Manrope', sans-serif;
+    
+
+}
+.container{
+    border: 1px solid red;
+    width: 80%;
+    display: block;
+    margin:  0 auto;
+    margin-top: 1%;
+    background-color: #FFFFFF;
+
+
 }
 p{
     font-family: 'Manrope', sans-serif;;
@@ -12,13 +24,16 @@ p{
 .nav{
     display: flex;
     justify-content: space-between;
+    border: 2px solid #155EEF;
+    border-radius: 8px;
 }
 
 .nav .img{
     width: 70%;
-    margin-left: 10%;
+    margin-left: 8%;
     margin-top: 17%;
     padding-left: 15%;
+    
 }
 .anchor{
     display: flex;
@@ -43,6 +58,7 @@ p{
 .btn{
     margin-right: 10%;
     margin-top: 2%;
+    margin-bottom: 2%;
     padding: 1%;
     color: #155EEF;
     font-family: Manrope;
@@ -61,7 +77,9 @@ p{
 .section1{
     display: flex;
     justify-content: space-between;
-    margin-top: 10%;
+    margin-top: 2%;
+    border: 2px solid #155EEF;
+    border-radius: 8px;
 }
 .article1{
     padding-left: 4%;
@@ -78,6 +96,10 @@ p{
 }
 .img1{
     padding-right: 5%;
+}
+.techBro{
+     width: 95%; 
+    margin: 5% 0;
 }
 
 .h1{
@@ -116,16 +138,21 @@ p{
 .section2{
     display: flex;
     justify-content: space-between;
-    margin-top: 10%;
+    margin-top: 4%;
+    border: 2px solid #155EEF;
+    border-radius: 8px;
 }
 
 .section2 img{
     margin-left: 10%;
 }
+.avatar{
+    margin: 5% 0;
+}
 
 .article2{
     padding-right: 4%;
-    padding-top: 3%;
+    padding-top: 5%;
 }
 
 .article2 h2{
@@ -152,12 +179,14 @@ p{
 footer{
     display: flex;
     justify-content: space-between;
-    margin-top: 10%;
+    margin-top: 4%;
+    border: 2px solid #155EEF;
+    border-radius: 8px;
 }
 
 .img2{
     width: 70%;
-    margin-left: 10%;
+    margin-left: 8%;
     padding-left: 15%;
 }
 
@@ -170,5 +199,5 @@ footer{
 
 }
 .img3{
-    /* padding: 2%; */
+    margin-top: 1%;
 }
