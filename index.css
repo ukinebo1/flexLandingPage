@@ -8,7 +8,7 @@
 
 }
 .container{
-    width: 60%;
+    width: 80%;
     display: block;
     margin:  0 auto;
     margin-top: 1%;
@@ -37,7 +37,7 @@ p{
 .anchor{
     display: flex;
     
-     gap: 20%; 
+     gap: 60%; 
      margin-top: 3%;
      margin-left: 40%;
     
@@ -146,12 +146,11 @@ p{
     margin-left: 5%;
 }
 .avatar{
-    width: 80%;
-    margin: 5% 0;
+    margin: 10% 0;
 }
 
 .article2{
-    padding-right: 2%; 
+    padding-right: 10%; 
     padding-top: 5%;
 }
 
@@ -222,7 +221,7 @@ footer{
     margin-top: 11%;
     margin-bottom: 4%;
     position: relative; 
-    left: 450px;    
+    left: 700px;    
 }
 
 .avatar4{
@@ -236,7 +235,7 @@ footer{
     padding: 2%;  
     position: absolute;
     top: 10px;
-    left: 1px;  
+    left: 150px;  
     z-index: 1;
      
     
