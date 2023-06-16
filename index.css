@@ -150,7 +150,7 @@ p{
 }
 
 .article2{
-    padding-right: 10%; 
+    padding-right: 5%; 
     padding-top: 5%;
 }
 
@@ -221,7 +221,7 @@ footer{
     margin-top: 11%;
     margin-bottom: 4%;
     position: relative; 
-    left: 700px;    
+    left: 600px;    
 }
 
 .avatar4{
@@ -235,7 +235,7 @@ footer{
     padding: 2%;  
     position: absolute;
     top: 10px;
-    left: 150px;  
+    left: 130px;  
     z-index: 1;
      
     
