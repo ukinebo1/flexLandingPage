@@ -265,6 +265,9 @@ footer{
     font-size: 24px;
     font-weight: 400;
     line-height: 29px;
-    color:#2E3A53;
-    padding-left: 1%; 
+    color:#2E3A53; 
 } 
+
+.lists{
+    padding-left: 7%;
+}
