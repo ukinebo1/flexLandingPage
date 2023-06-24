@@ -271,3 +271,58 @@ footer{
 .lists{
     padding-left: 7%;
 }
+
+.vect{
+    display: none;
+}
+
+@media screen and (max-width:1400px) {
+    body{
+        overflow-x: visible;
+    }
+    .nav{
+        width: 100%;
+        padding: 2% 3%;
+    }
+    .anchor, .btn{
+        display: none;
+    }
+    .img{
+        width: 10%;
+    }
+    .vect{
+        display: block;
+        cursor: pointer;
+        padding-right: 5%;
+    }
+    .section1{
+        flex-direction: column;
+        height: auto;
+        /* justify-content: center; */
+        /* padding: ; */
+    }
+    .article1{
+        text-align: center;
+    }
+    .img{
+        width: 70%;
+        /* padding-left: 10%; */
+    }
+    .section2{
+        flex-direction: column-reverse;
+        height: auto;
+    }
+    .article2{
+        padding-left: 2%;
+    }
+    .avatar{
+        width: 70%;
+    }
+    .section3{
+        display: none;
+    }
+    footer{
+        justify-content: space-between;
+    }
+    
+}
